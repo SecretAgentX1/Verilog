@@ -1,0 +1,8 @@
+*.digitaljs
+*.vvp
+*.o
+*.exe
+*.vcd
+*.json
+*.f
+*.out
